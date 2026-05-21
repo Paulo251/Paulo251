@@ -1,6 +1,6 @@
 # Paulo Ricardo
 
-Backend Developer (Junior) focused on building APIs with Laravel.
+Backend Developer focused on building APIs with Laravel.
 
 ## About
 I work mainly with backend development using **Laravel**, building REST APIs with authentication, business rules, and relational databases.
